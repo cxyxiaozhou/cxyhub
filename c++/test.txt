@@ -1,0 +1,5 @@
+name:dennis
+sex:man
+age:19
+
+
